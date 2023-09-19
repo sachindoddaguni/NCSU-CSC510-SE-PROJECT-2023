@@ -101,7 +101,7 @@
 | Question 14.3: Is your contributions' policy publicly available? | 5 | Yes in GH. [link](https://github.com/rliu9/cheapBuy/blob/main/CONTRIBUTING.md) |
 | Question 14.4: Do contributors keep the copyright/IP of their contributions? | 0 | No |
 | Q15 - Your software's copyright and licensing  |  |  |
-| Question 15.1: Does your website and documentation clearly state the copyright owners of your software and documentation? | 3 | https://github.com/kingan1/application-tracking-system/blob/main/LICENSE |
+| Question 15.1: Does your website and documentation clearly state the copyright owners of your software and documentation? | 3 | https://github.com/rliu9/cheapBuy/blob/main/LICENSE|
 | Question 15.2: Does each of your source code files include a copyright statement? | 0 | No |
 | Question 15.3: Does your website and documentation clearly state the licence of your software? | 3 |  Yes details about the license are provided [here](https://github.com/rliu9/cheapBuy/blob/main/LICENSE) |
 | Question 15.4: Is your software released under an open source licence? | 3 |  It has a MIT license.|
