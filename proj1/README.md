@@ -8,3 +8,6 @@
 
 * [Project t - Jtracker](scorecard_jtracker.md)
 * [project H - cheapbuy](scorecard_cheapbuy.md)
+* [project m - ClassMateBot](Scorecard_ClassMateBot.md)
+* [project y - Simplii](Scorecard_Simplii.md)
+  
