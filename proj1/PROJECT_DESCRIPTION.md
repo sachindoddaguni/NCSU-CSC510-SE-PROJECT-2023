@@ -1,6 +1,6 @@
 # Project Description 
 
-Team 33 has chosen the [project](https://github.com/kingan1/application-tracking-system) for SE project1. The **J-tracker** application is a job  application tracking assistant. It provides users with various functionalities which makes tracking job applications much easier. As we know for all students tracking their job application is of most importance, J-tracker provides features such as job search with filters such as salary, a wishlist to save your favorite jobs and move your application between various status. 
+Team 33 has chosen **J-tracker** [project](https://github.com/kingan1/application-tracking-system) for SE project1. The **J-tracker** application is a job  application tracking assistant. It provides users with various functionalities which makes tracking job applications much easier. As we know for all students tracking their job application is of most importance, J-tracker provides features such as job search with filters such as salary, a wishlist to save your favorite jobs and move your application between various status. 
 
 **Youtube video showing the application running: [link](https://www.youtube.com/watch?v=JZGqmLN6dsc)**
 
