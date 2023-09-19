@@ -22,10 +22,8 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|3| Video presented in README
 |Use of version control tools|3| GitHub is used as VCS during the entire cycle|
 |Use of style checkers |3|Pylint module used to keep a check on this|
-|Use of code formatters. |3|Pylint module used to keep a check on this
-|
-|Use of syntax checkers. |3|Pylint module used to keep a check on this
-|
+|Use of code formatters. |3|Pylint module used to keep a check on this|
+|Use of syntax checkers. |3|Pylint module used to keep a check on this|
 |Use of code coverage |2|coverage 74%. needs to be better|
 |Other automated analysis tools|0|Exist but no status|
 |Test cases exist|3| in GH|
