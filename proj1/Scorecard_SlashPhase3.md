@@ -19,10 +19,8 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|3| Video attached in README description
 |Use of version control tools|3| Developers have used Github throughout all phases of the project.|
 |Use of style checkers |1|No style checkers mentioned, Lint Pythob badge has no status|
-|Use of code formatters. |2|Not mentioned in the requirements&docs
-|
-|Use of syntax checkers. |3| flake8 is used
-|
+|Use of code formatters. |2|Not mentioned in the requirements&docs|
+|Use of syntax checkers. |3| flake8 is used|
 |Use of code coverage |3|Code coverage 100%.|
 |Other automated analysis tools|1|Added, but most with no status|
 |Test cases exist|3| in GH|
